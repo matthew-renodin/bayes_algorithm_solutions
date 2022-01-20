@@ -1,1 +1,3 @@
-# bayes_algorithm_solutions
+# bayes algorithm introduction
+
+
