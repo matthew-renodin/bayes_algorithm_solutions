@@ -7,7 +7,9 @@ Bayes theorem is applied by measuring probability for many problems virus detect
 
 I start by first understanding the algorithm and breaking it up using a spreadsheet. This will help me understand the algorithm and help me code it. It will also help me write the tests for evaluating the probability.
 
-![image](https://user-images.githubusercontent.com/5507643/150457063-f676fc6e-bcdd-4d53-9ede-dbb72010c47e.png)
+P(B|A) * Bayes Factor = postier odds or posterior probability
+
+![image](https://user-images.githubusercontent.com/5507643/150457775-fa65b909-87c2-4794-a797-bf065d6d81a6.png)
 
 
 
