@@ -7,7 +7,8 @@ Bayes theorem is applied by measuring probability for many problems virus detect
 
 I start by first understanding the algorithm and breaking it up using a spreadsheet. This will help me understand the algorithm and help me code it. It will also help me write the tests for evaluating the probability.
 
-![image](https://user-images.githubusercontent.com/5507643/150247102-707f17e1-c9de-4752-b755-262e7d1a10d3.png)
+![image](https://user-images.githubusercontent.com/5507643/150457063-f676fc6e-bcdd-4d53-9ede-dbb72010c47e.png)
+
 
 
 
