@@ -11,8 +11,7 @@ I start by first understanding the algorithm and breaking it up using a spreadsh
 
 P(B|A) * Bayes Factor = postier odds or posterior probability
 
-![image](https://user-images.githubusercontent.com/5507643/150457775-fa65b909-87c2-4794-a797-bf065d6d81a6.png)
-
+![image](https://user-images.githubusercontent.com/5507643/150643691-8471a580-6c96-42c6-8c04-6f4b65acbd1d.png)
 
 
 
