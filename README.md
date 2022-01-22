@@ -11,7 +11,7 @@ I start by first understanding the algorithm and breaking it up using a spreadsh
 
 (P(n1┤|n3)×P(n3))/(P(n1┤|n3)×P(n3)+P(n1│common)×(1-P(n3)))  ×P(n1┤|n3)
 
-P(B|A) * Bayes Factor = postier odds or posterior probability
+P(B|A) * Bayes Factor = posterior odds or posterior probability
 
 ![image](https://user-images.githubusercontent.com/5507643/150643691-8471a580-6c96-42c6-8c04-6f4b65acbd1d.png)
 
