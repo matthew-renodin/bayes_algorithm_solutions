@@ -21,17 +21,16 @@ Below is an example of using Bayes Algorithm. The data will come from a list and
 ```javascript
 function mr_bayes(total_size, B_num, A_num, B_in_common)
 {
-const p_B_A = B_num/A_num;
-const p_A = A_num/total_size;
-const numerator = p_B_A * p_A;
-const common_num =  total_size - A_num;
-const p_B_common = B_in_common/common_num;
-const p_common = 1-p_A;
-const denominator = numerator+(p_B_common * p_common);
-const bayes_factor = numerator/denominator;
-const pp = p_B_A * bayes_factor;
-
-return pp;
+  const p_B_A = B_num/A_num;
+  const p_A = A_num/total_size;
+  const numerator = p_B_A * p_A;
+  const common_num =  total_size - A_num;
+  const p_B_common = B_in_common/common_num;
+  const p_common = 1-p_A;
+  const denominator = numerator+(p_B_common * p_common);
+  const bayes_factor = numerator/denominator;
+  const pp = p_B_A * bayes_factor;
+  return pp;
 }
 ```
 
