@@ -32,7 +32,9 @@ function mr_bayes(total_size, B_num, A_num, B_in_common)
   return pp;
 }
 ```
+Viewing the HTML file.
 
+![image](https://user-images.githubusercontent.com/5507643/150643722-ef8444fd-8f84-49da-a71e-91f78dea2f4b.png)
 
 
 
